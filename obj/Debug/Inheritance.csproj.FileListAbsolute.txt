@@ -1,0 +1,6 @@
+C:\Users\gar\Documents\Visual Studio 2015\Projects\Inheritance\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\gar\Documents\Visual Studio 2015\Projects\Inheritance\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\gar\Documents\Visual Studio 2015\Projects\Inheritance\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\gar\Documents\Visual Studio 2015\Projects\Inheritance\ConsoleApplication2\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\gar\Documents\Visual Studio 2015\Projects\Inheritance\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\gar\Documents\Visual Studio 2015\Projects\Inheritance\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
